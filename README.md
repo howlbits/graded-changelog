@@ -4,7 +4,8 @@ Email us at TheGradedApp@gmail.com to tell us what we should add.
 ## Things to do
 * Actually update app (like the binary)
 
-## 5/7/2017
+## The actual changelog
+### 5/7/2017
 * Fixed more what if feature bugs
 * a e s t h e t i c improvements to pages (including signin page)
 * More bug fixes
